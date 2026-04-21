@@ -1,3 +1,3 @@
 import boto3
 s3 = boto3.client('s3')
-s3.upload_file('index.html','associate-file-upload','index.html')
+s3.upload_file('index.html','github-upload-111','index.html')
