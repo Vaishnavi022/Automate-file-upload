@@ -6,4 +6,4 @@ bucket_name = "associate-file-upload"
 
 s3.upload_file('index.html', bucket_name, 'index.html')
 
-print("✅ File uploaded successfully!")
+print("Uploaded successfully 🚀")
